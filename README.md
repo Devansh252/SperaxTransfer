@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Getting Started with Transfer Dapp
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Please add the .env file in the root directory before proceeding which is provided in the Drive folder.
 
-In the project directory, you can run:
+The env file contains the ethereum node URL with Api- key as well the as the ERC20 Token Addresses.
 
 ### `npm start`
 
