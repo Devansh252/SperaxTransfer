@@ -2,9 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Please add the .env file in the root directory before proceeding which is provided in the Drive folder.
+## Please add the .env file in the root directory before proceeding, which is provided in the Drive folder.
 
-The env file contains the ethereum node URL with Api- key as well the as the ERC20 Token Addresses.
+The env file contains the ethereum node URL with Api-key (I have used Alchemy's) as well the as the ERC20 Token Addresses.
+
+### `npm install`
+
+This will install all the dependencies.\
 
 ### `npm start`
 
